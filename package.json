@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "styled-components": "^2.1.1",
+    "polished": "^1.3.0"
+  },
+  "name": "bootstrap-styled-components",
+  "description": "Bootstrap React Components using styled-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagiavinash/bootstrap-styled-components.git"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "bootstrap3",
+    "styled-components",
+    "css-in-js"
+  ],
+  "author": "sagiavinash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagiavinash/bootstrap-styled-components/issues"
+  },
+  "homepage": "https://github.com/sagiavinash/bootstrap-styled-components#readme"
+}
